@@ -1,0 +1,10 @@
+{
+  "name": "GSMarmite-Editor",
+  "references": [
+    "GSMarmite"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
